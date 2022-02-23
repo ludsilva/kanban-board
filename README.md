@@ -12,7 +12,7 @@ Projeto criado para aprendizagem do framework React JS.
 - CSS (para estilização dos componentes)
 
 ### Preview
-![Preview]('./../src/img/preview.png')
+![Preview](https://github.com/ludsilva/kanban-board/blob/master/src/img/preview.png)
 
 ## Status do projeto
 Em desenvolvimento - projeto para fins de aprendizagem.
