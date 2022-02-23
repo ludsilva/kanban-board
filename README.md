@@ -12,7 +12,7 @@ Projeto criado para aprendizagem do framework React JS.
 - CSS (para estilização dos componentes)
 
 ### Preview
-![Preview]()
+![Preview]('./../src/img/preview.png')
 
 ## Status do projeto
 Em desenvolvimento - projeto para fins de aprendizagem.
